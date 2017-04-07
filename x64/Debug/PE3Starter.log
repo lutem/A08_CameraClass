@@ -1,0 +1,41 @@
+﻿  PE3.cpp
+z:\igmprofile\desktop\pe5_final\pe3.cpp(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(213): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(218): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(224): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(229): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(235): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(240): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(246): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(251): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(257): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(262): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(268): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(273): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(384): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(391): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(394): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(397): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(400): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(403): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(406): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(408): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(411): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(415): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(418): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(421): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(424): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(427): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(430): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(434): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(435): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(679): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+z:\igmprofile\desktop\pe5_final\pe3.cpp(712): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  CamClass.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Main.cpp
+  PE3Starter.vcxproj -> Z:\IGMProfile\Desktop\PE5_final\x64\Debug\PE3Starter.exe
+  PE3Starter.vcxproj -> Z:\IGMProfile\Desktop\PE5_final\x64\Debug\PE3Starter.pdb (Partial PDB)
+  0 File(s) copied

@@ -1,0 +1,4 @@
+1) Multiple cameras with one that auto rotates (ASDF keys)
+2) Color changes depending on which force was last exerted on them, space to reset
+3) Add (arrow keys + space) keys that can change the force on the balls, added friction to counteract possible increases in force
+4) Larger rectangular box with a second group of balls that gravitates towards the center and aren't affected by the added forces
